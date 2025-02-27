@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">Olá! eu sou a Yasmym e estou cursando o Técnico em informática para Internet 
+<p align="center">Olá! eu sou a Yasmim e estou cursando o Técnico em informática para Internet 
   da UTFPR de Campo Mourão.
 
 
